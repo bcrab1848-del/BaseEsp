@@ -1,0 +1,4 @@
+{
+ "schemaVersion":1,"id":"baseesp","version":"${version}","name":"BaseESP","description":"Client-side storage ESP with purple outlines.","environment":"client",
+ "entrypoints":{"client":["dev.baseesp.BaseEsp"]},"depends":{"fabricloader":">=0.17.0","minecraft":"1.21.8","java":">=21","fabric-api":"*"}
+}
